@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 The code was tested with Python 3.10, PyTorch 2.1.2, pandas 2.3.3, NumPy 1.26.3, SciPy 1.15.3, and RDKit.
 
+## Files
+
 ### Data
 
 Place the required data files under `data/`:
